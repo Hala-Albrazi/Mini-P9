@@ -1,7 +1,7 @@
 print("Welcome to place the rabbit!")
 plants = [['🌿', '🌿', '🌿'], ['🌿', '🌿', '🌿'], ['🌿', '🌿', '🌿']]
 print(f"{plants[0]}\n{plants[1]}\n{plants[2]}\n")
-print("Whre should the rabbit go? 🐇")
+print("Where should the rabbit go? 🐇")
 place = input("Please choose a row and a column! \n")
 row = int(place[0])
 column = int(place[1])
@@ -12,3 +12,4 @@ print(f"{plants[0]}\n{plants[1]}\n{plants[2]}\n")
 
 # 🐇
 # 🌿
+
